@@ -62,7 +62,7 @@ if __name__ == "__main__":
     ui = Ui_LoginWindow()
     ui.setupUi(LoginWindow)
     LoginWindow.show()
-    pyautogui.alert('Welcome to IceBox Pssword Manager\n-This Project contains\n\to Password Protector\n\to FileSafe(to store confidencial files in encrypted format)\n\to SecretNotes (for storing confidential information)\nThis Project was done as a part of DBMS Package by:-\n\to Deepan.N (18pt43)\n\to Jayanth.S.K(19pt42)','Information')
+    pyautogui.alert('Welcome to IceBox Pssword Manager\n-This Project contains\n\to Password Protector\n\to FileSafe(to store confidencial files in encrypted format)\n\to SecretNotes (for storing confidential information)\nThis Project was done as a part of DBMS Package by:-\n\to Deepan.N (18pt43)\n\to Jayanth.S.K(18pt42)','Information')
     ui.loginbutton.clicked.connect(checklogin)
     ui.signupbutton.clicked.connect(importt)
     ui.forgotpass.clicked.connect(forgotpassword)
