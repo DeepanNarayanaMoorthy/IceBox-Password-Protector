@@ -22,6 +22,8 @@
 
 # IceBox-Password-Protector
 
+This Project was done by Deepan.N ( 18PT43 ) and Jayanth.S.K ( 18PT42 ) as a part of DBMS Package.
+
 ## Explanation Video
 
 [Click on this link to see the Explanation Video for this Package](https://drive.google.com/file/d/13vL99n1tcgG3UFJ5Ovr0sb_T9jKMcjiO/view?usp=sharing) 
